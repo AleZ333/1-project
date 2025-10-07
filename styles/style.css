@@ -1,0 +1,41 @@
+html {
+  font-size: 10px;
+  font-family: "Roboto Slab", serif;
+  background-color: #91a780bc;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+  text-shadow: 3px 3px 1px darkgray;
+}
+p,
+li {
+  font-size: 25px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+  text-shadow: 1.5px 1.5px 2.5px darkgrey;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #5a8d30bc;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+a {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+button {
+  font-size: 15px;
+  background-color: goldenrod;
+}
